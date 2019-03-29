@@ -18,9 +18,13 @@ class ViewController: UIViewController {
     
     }
 
-
+    func test()  {
+       print("newlines for you")
 }
 
+    
+    
+}
 func new
     ()  {
     print("new line ")
