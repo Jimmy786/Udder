@@ -18,3 +18,7 @@ class ViewController: UIViewController {
 
 }
 
+func new
+    ()  {
+    print("new line ")
+}
