@@ -13,6 +13,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+     viewDidAppear(<#T##animated: Bool##Bool#>)
+    
+    
     }
 
 
@@ -22,3 +25,5 @@ func new
     ()  {
     print("new line ")
 }
+
+
